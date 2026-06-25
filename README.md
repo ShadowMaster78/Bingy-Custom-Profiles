@@ -9,6 +9,9 @@ When generating a board, make sure to choose your chosen pack as the profile. Ev
 Each goal pack (with the exception of Wingy) requires both BingoGoalPack1 and BingoGoalPack2.
 
 
+Thank you to Wand for helping to fix some of the issues with the fast goal pack.
+
+
 Each of the goal packs includes:
 
 Bosses: Has every boss in the game.
@@ -17,7 +20,7 @@ Dream Nail: Contains exclusively goals requiring Dream Nail.
 
 Everything: Has every goal from every goal pack (vanilla, extended, extended+, item rando, hall of gods, grubs, relics, hard saves, and BingoGoalPack2).
 
-Fast Pack: Contains exclusively goals considered "fast."
+Fast: Contains exclusively goals considered "fast."
 
 Goal Pack 1 + 2: Contains all goals from the vanilla goal pack and BingoGoalPack2.
 
